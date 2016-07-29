@@ -1,7 +1,7 @@
 package br.com.erudio
 
 import org.scalatest._
-import co.gridport.scala._
+import br.com.erudio._
 
 class EchoServiceTest extends FlatSpec with Matchers {
 
